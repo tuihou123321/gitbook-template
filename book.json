@@ -30,7 +30,7 @@
     },
     "github-buttons": {
       "buttons": [{
-        "user": "riskers",
+        "user": "tuihou123321",
         "repo": "gitbook-template",
         "type": "star",
         "size": "small",
@@ -38,7 +38,7 @@
       }]
     },
     "editlink": {
-      "base": "https://github.com/riskers/gitbook-template/blob/master",
+      "base": "https://github.com/tuihou123321/gitbook-template",
       "label": "Edit",
       "multilingual": false
     },
@@ -55,7 +55,7 @@
       ]
     },
     "page-footer-ex": {
-      "copyright": "By [riskers](https://github.com/riskers)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "copyright": "By [tuihou123321](https://github.com/tuihou123321)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
       "markdown": true,
       "update_label": "此页面修订于：",
       "update_format": "YYYY-MM-DD HH:mm:ss"
@@ -64,8 +64,8 @@
       "path": "/"
     },
     "donate": {
-      "wechat": "https://riskers.github.io/gitbook-template/wechat.jpg",
-      "alipay": "https://riskers.github.io/gitbook-template/alipay.jpg",
+      "wechat": "https://tuihou123321.github.io/gitbook-template/wechat.jpg",
+      "alipay": "https://tuihou123321.github.io/gitbook-template/alipay.jpg",
       "title": "",
       "button": "赏",
       "alipayText": "支付宝打赏",
